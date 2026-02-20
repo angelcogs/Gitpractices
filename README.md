@@ -1,2 +1,1 @@
-Hello Git
-Learning basics
+Learn basic with meeee
